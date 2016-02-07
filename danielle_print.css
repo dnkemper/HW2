@@ -1,0 +1,23 @@
+body {
+  <font-family: Ariel, Helvettica, sans-serif;
+  <background-color:#682493;>
+}
+h1{
+	color:White;
+	font-size:2em;
+	font-weight:bold;
+	text-align:center;
+	margin:0;
+	padding:0;
+	padding-top:10pm;
+}
+h2 {
+	font-size:1.6;
+	font-weight:bold;
+}
+table{
+	width:100%;
+}
+th{
+	height:50px;
+}
